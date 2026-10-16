@@ -17,6 +17,7 @@ for f in os.listdir(photos):  # removed by a key holder or retracted: not kept i
     if f.endswith('.jpg') and f[:-4] not in want: os.remove(os.path.join(photos, f)); print('removed', f)
 for i in sorted(want - {f[:-4] for f in os.listdir(photos)}, key=int):
     b64 = get(f'reports?select=photo&id=eq.{i}')[0]['photo']
+    if not b64: print('report', i, 'has no photo in the database and none here, skipped'); continue
     data = base64.b64decode(b64); assert data[:3] == b'\xff\xd8\xff', f'report {i}: not a JPEG'
     open(os.path.join(photos, i + '.jpg'), 'wb').write(data); print('saved', i)
 print(len(rows), 'reports,', len(want), 'photos')

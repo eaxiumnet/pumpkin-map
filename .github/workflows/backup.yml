@@ -11,9 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: ls backup/photos > /tmp/served.txt 2>/dev/null || touch /tmp/served.txt  # already deployed by earlier runs
       - run: python3 .github/backup.py
       - run: |
           git add backup
           git diff --cached --quiet && exit 0
           git -c user.name=pumpkin-backup -c user.email=41898282+github-actions[bot]@users.noreply.github.com commit -qm "Back up community reports"
           git push
+      - run: python3 .github/archive.py /tmp/served.txt
+        env:
+          ARCHIVE_KEY: ${{ secrets.ARCHIVE_KEY }}
