@@ -3038,5 +3038,15 @@
   "note": null,
   "has_photo": false,
   "created_at": "2026-10-16T21:28:49.734461+00:00"
+ },
+ {
+  "id": 305,
+  "district": "FinancialDistrict",
+  "actor": "cProp_622",
+  "kind": "not_here",
+  "day": "2026-10-16",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-16T21:50:36.94475+00:00"
  }
 ]
