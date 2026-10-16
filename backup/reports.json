@@ -1,0 +1,62 @@
+[
+ {
+  "id": 1,
+  "district": "FinancialDistrict",
+  "actor": "cProp_174",
+  "kind": "found",
+  "day": "2026-10-15",
+  "note": "Test community image",
+  "has_photo": false,
+  "created_at": "2026-10-15T22:12:29.864436+00:00"
+ },
+ {
+  "id": 2,
+  "district": "FinancialDistrict",
+  "actor": "cProp_655",
+  "kind": "found",
+  "day": "2026-10-16",
+  "note": "The pumpkin is under the large wooden cable spool (the round wooden reel) that\u2019s leaning against the red brick wall.",
+  "has_photo": true,
+  "created_at": "2026-10-16T08:07:54.346702+00:00"
+ },
+ {
+  "id": 3,
+  "district": "FinancialDistrict",
+  "actor": "cProp_954",
+  "kind": "found",
+  "day": "2026-10-16",
+  "note": "On table next to Violet Prentiss",
+  "has_photo": true,
+  "created_at": "2026-10-16T08:50:11.888783+00:00"
+ },
+ {
+  "id": 4,
+  "district": "FinancialDistrict",
+  "actor": "cProp_955",
+  "kind": "found",
+  "day": "2026-10-16",
+  "note": null,
+  "has_photo": true,
+  "created_at": "2026-10-16T08:50:54.731803+00:00"
+ },
+ {
+  "id": 5,
+  "district": "FinancialDistrict",
+  "actor": "cProp_961",
+  "kind": "found",
+  "day": "2026-10-16",
+  "note": null,
+  "has_photo": true,
+  "created_at": "2026-10-16T08:51:31.774927+00:00"
+ },
+ {
+  "id": 6,
+  "district": "FinancialDistrict",
+  "actor": "cProp_690",
+  "kind": "found",
+  "day": "2026-10-16",
+  "note": null,
+  "has_photo": true,
+  "created_at": "2026-10-16T08:58:18.944197+00:00"
+ }
+]
