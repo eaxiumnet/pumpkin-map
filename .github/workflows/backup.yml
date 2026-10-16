@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write  # to start the next run itself
 concurrency: backup
 jobs:
   backup:
@@ -21,3 +22,8 @@ jobs:
       - run: python3 .github/archive.py /tmp/served.txt
         env:
           ARCHIVE_KEY: ${{ secrets.ARCHIVE_KEY }}
+      # GitHub's cron never fired for this repo, so each run starts the next one 30 min later (concurrency keeps one chain)
+      - if: always()
+        run: sleep 1800 && gh workflow run backup.yml -R ${{ github.repository }}
+        env:
+          GH_TOKEN: ${{ github.token }}
