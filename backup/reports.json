@@ -4458,5 +4458,35 @@
   "note": null,
   "has_photo": false,
   "created_at": "2026-10-17T02:27:45.872035+00:00"
+ },
+ {
+  "id": 447,
+  "district": "FinancialDistrict",
+  "actor": "cProp_866",
+  "kind": "infected",
+  "day": "2026-10-17",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-17T02:37:55.252212+00:00"
+ },
+ {
+  "id": 448,
+  "district": "FinancialDistrict",
+  "actor": "cProp_867",
+  "kind": "not_here",
+  "day": "2026-10-17",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-17T02:38:22.868017+00:00"
+ },
+ {
+  "id": 449,
+  "district": "FinancialDistrict",
+  "actor": "cProp_628",
+  "kind": "infected",
+  "day": "2026-10-17",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-17T02:47:56.28266+00:00"
  }
 ]
