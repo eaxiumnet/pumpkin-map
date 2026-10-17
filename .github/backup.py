@@ -8,7 +8,11 @@ def get(path):
     with urllib.request.urlopen(req, timeout=60) as r: return json.load(r)
 out = os.path.join(os.getcwd(), 'backup')  # run from the repo root (GitHub Actions does)
 photos = os.path.join(out, 'photos'); os.makedirs(photos, exist_ok=True)
-rows = get('reports?select=id,district,actor,kind,day,note,has_photo,created_at&order=id&limit=100000')
+rows = []  # the API returns at most 1000 rows per request: page through them all (a short list here would also drop photos below)
+while True:
+    page = get(f'reports?select=id,district,actor,kind,day,note,has_photo,created_at&order=id&limit=1000&offset={len(rows)}')
+    rows += page
+    if len(page) < 1000: break
 json.dump(rows, open(os.path.join(out, 'reports.json'), 'w'), indent=1)
 try: json.dump(get('vote_counts?select=report_id,likes,dislikes&order=report_id'), open(os.path.join(out, 'votes.json'), 'w'), indent=1)
 except Exception as e: print('votes skipped:', e)

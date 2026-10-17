@@ -6,7 +6,11 @@ KEY = 'sb_publishable_Vyhmpjx--F4AtjZl22-UHA_IUwhdD_N'
 key = os.environ.get('ARCHIVE_KEY')
 if not key: sys.exit(print('no ARCHIVE_KEY secret, photos stay in the database'))
 ids = sorted(int(f[:-4]) for f in open(sys.argv[1]).read().split() if f.endswith('.jpg') and f[:-4].isdigit())
-want = {r['id'] for r in json.load(urllib.request.urlopen(urllib.request.Request(URL + 'reports?select=id&has_photo=is.true&limit=100000', headers={'apikey': KEY, 'Authorization': 'Bearer ' + KEY}), timeout=60))}
+want = set()  # paged: the API returns at most 1000 rows per request
+while True:
+    page = json.load(urllib.request.urlopen(urllib.request.Request(URL + f'reports?select=id&has_photo=is.true&order=id&limit=1000&offset={len(want)}', headers={'apikey': KEY, 'Authorization': 'Bearer ' + KEY}), timeout=60))
+    want |= {r['id'] for r in page}
+    if len(page) < 1000: break
 ids = [i for i in ids if i in want]
 for i in ids:  # each file must really be on disk and a JPEG before the database copy goes
     with open(f'backup/photos/{i}.jpg', 'rb') as f: assert f.read(3) == bytes.fromhex('ffd8ff'), i
