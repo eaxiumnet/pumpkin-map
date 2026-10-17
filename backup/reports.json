@@ -3258,5 +3258,25 @@
   "note": null,
   "has_photo": false,
   "created_at": "2026-10-16T23:43:18.7358+00:00"
+ },
+ {
+  "id": 327,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1304",
+  "kind": "infected",
+  "day": "2026-10-17",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-17T00:22:57.19867+00:00"
+ },
+ {
+  "id": 328,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1723",
+  "kind": "not_here",
+  "day": "2026-10-17",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-17T00:23:52.586783+00:00"
  }
 ]
