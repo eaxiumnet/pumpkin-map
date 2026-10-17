@@ -50,6 +50,16 @@
   "dislikes": 0
  },
  {
+  "report_id": 23,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 27,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
   "report_id": 39,
   "likes": 1,
   "dislikes": 0
@@ -60,13 +70,23 @@
   "dislikes": 0
  },
  {
-  "report_id": 46,
+  "report_id": 42,
   "likes": 1,
   "dislikes": 0
  },
  {
-  "report_id": 47,
+  "report_id": 45,
   "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 46,
+  "likes": 2,
+  "dislikes": 0
+ },
+ {
+  "report_id": 47,
+  "likes": 2,
   "dislikes": 0
  },
  {
