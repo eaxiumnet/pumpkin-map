@@ -6,7 +6,7 @@
  },
  {
   "report_id": 7,
-  "likes": 1,
+  "likes": 2,
   "dislikes": 0
  },
  {
@@ -31,7 +31,12 @@
  },
  {
   "report_id": 15,
-  "likes": 2,
+  "likes": 3,
+  "dislikes": 0
+ },
+ {
+  "report_id": 16,
+  "likes": 1,
   "dislikes": 0
  },
  {
@@ -46,6 +51,16 @@
  },
  {
   "report_id": 19,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 21,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 22,
   "likes": 1,
   "dislikes": 0
  },
