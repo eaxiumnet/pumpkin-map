@@ -494,7 +494,7 @@ class OrbitControls extends EventDispatcher {
 
 		function getZoomScale( delta ) {
 
-			const normalized_delta = Math.abs( delta ) / ( 100 * ( window.devicePixelRatio | 0 ) );
+			const normalized_delta = Math.min( 5, Math.abs( delta ) / ( 100 * Math.max( 1, window.devicePixelRatio | 0 ) ) ); // pumpkin map: DPR < 1 (browser zoomed out) gave 0 here -> infinite zoom; cap huge wheel deltas
 			return Math.pow( 0.95, scope.zoomSpeed * normalized_delta );
 
 		}
