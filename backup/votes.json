@@ -95,6 +95,11 @@
   "dislikes": 0
  },
  {
+  "report_id": 38,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
   "report_id": 39,
   "likes": 1,
   "dislikes": 0
@@ -110,8 +115,18 @@
   "dislikes": 0
  },
  {
-  "report_id": 45,
+  "report_id": 43,
   "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 44,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 45,
+  "likes": 2,
   "dislikes": 0
  },
  {
@@ -156,6 +171,31 @@
  },
  {
   "report_id": 147,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 5167,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 5170,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 5173,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 5175,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 5181,
   "likes": 1,
   "dislikes": 0
  }
