@@ -64908,5 +64908,985 @@
   "note": null,
   "has_photo": false,
   "created_at": "2026-10-19T10:44:38.562004+00:00"
+ },
+ {
+  "id": 7081,
+  "district": "FinancialDistrict",
+  "actor": "cProp_717",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:47:04.613701+00:00"
+ },
+ {
+  "id": 7082,
+  "district": "FinancialDistrict",
+  "actor": "cProp_718",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:47:14.726627+00:00"
+ },
+ {
+  "id": 7083,
+  "district": "FinancialDistrict",
+  "actor": "cProp_732",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:50:21.822772+00:00"
+ },
+ {
+  "id": 7084,
+  "district": "FinancialDistrict",
+  "actor": "cProp_162",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:50:36.025294+00:00"
+ },
+ {
+  "id": 7085,
+  "district": "FinancialDistrict",
+  "actor": "cProp_159",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:50:41.723602+00:00"
+ },
+ {
+  "id": 7086,
+  "district": "FinancialDistrict",
+  "actor": "cProp_175",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:51:25.431114+00:00"
+ },
+ {
+  "id": 7087,
+  "district": "FinancialDistrict",
+  "actor": "cProp_538",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:51:31.969917+00:00"
+ },
+ {
+  "id": 7088,
+  "district": "FinancialDistrict",
+  "actor": "cProp_166",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:51:32.335639+00:00"
+ },
+ {
+  "id": 7089,
+  "district": "FinancialDistrict",
+  "actor": "cProp_153",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:52:02.111787+00:00"
+ },
+ {
+  "id": 7090,
+  "district": "FinancialDistrict",
+  "actor": "cProp_726",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:52:08.348813+00:00"
+ },
+ {
+  "id": 7091,
+  "district": "FinancialDistrict",
+  "actor": "cProp_172",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:52:09.175612+00:00"
+ },
+ {
+  "id": 7092,
+  "district": "FinancialDistrict",
+  "actor": "cProp_724",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:53:29.657508+00:00"
+ },
+ {
+  "id": 7093,
+  "district": "FinancialDistrict",
+  "actor": "cProp_173",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:54:05.127114+00:00"
+ },
+ {
+  "id": 7094,
+  "district": "FinancialDistrict",
+  "actor": "cProp_722",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:54:06.8554+00:00"
+ },
+ {
+  "id": 7095,
+  "district": "FinancialDistrict",
+  "actor": "cProp_643",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:54:19.259487+00:00"
+ },
+ {
+  "id": 7096,
+  "district": "FinancialDistrict",
+  "actor": "cProp_638",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:55:08.144681+00:00"
+ },
+ {
+  "id": 7097,
+  "district": "FinancialDistrict",
+  "actor": "cProp_166",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:55:18.206793+00:00"
+ },
+ {
+  "id": 7098,
+  "district": "FinancialDistrict",
+  "actor": "cProp_206",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:55:44.720927+00:00"
+ },
+ {
+  "id": 7099,
+  "district": "FinancialDistrict",
+  "actor": "cProp_519",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:56:00.433155+00:00"
+ },
+ {
+  "id": 7100,
+  "district": "FinancialDistrict",
+  "actor": "cProp_207",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:56:14.243937+00:00"
+ },
+ {
+  "id": 7101,
+  "district": "FinancialDistrict",
+  "actor": "cProp_785",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:56:16.909848+00:00"
+ },
+ {
+  "id": 7102,
+  "district": "FinancialDistrict",
+  "actor": "cProp_215",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:56:37.479302+00:00"
+ },
+ {
+  "id": 7103,
+  "district": "FinancialDistrict",
+  "actor": "cProp_642",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:56:56.793864+00:00"
+ },
+ {
+  "id": 7104,
+  "district": "FinancialDistrict",
+  "actor": "cProp_637",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:57:03.870808+00:00"
+ },
+ {
+  "id": 7105,
+  "district": "FinancialDistrict",
+  "actor": "cProp_279",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:57:13.755937+00:00"
+ },
+ {
+  "id": 7106,
+  "district": "FinancialDistrict",
+  "actor": "cProp_790",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:57:15.762786+00:00"
+ },
+ {
+  "id": 7107,
+  "district": "FinancialDistrict",
+  "actor": "cProp_805",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:58:01.811911+00:00"
+ },
+ {
+  "id": 7108,
+  "district": "FinancialDistrict",
+  "actor": "cProp_802",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:58:24.141044+00:00"
+ },
+ {
+  "id": 7109,
+  "district": "FinancialDistrict",
+  "actor": "cProp_262",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:58:31.269293+00:00"
+ },
+ {
+  "id": 7110,
+  "district": "FinancialDistrict",
+  "actor": "cProp_796",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:58:57.089552+00:00"
+ },
+ {
+  "id": 7111,
+  "district": "FinancialDistrict",
+  "actor": "cProp_798",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:59:36.12412+00:00"
+ },
+ {
+  "id": 7112,
+  "district": "FinancialDistrict",
+  "actor": "cProp_48",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T10:59:58.861948+00:00"
+ },
+ {
+  "id": 7113,
+  "district": "FinancialDistrict",
+  "actor": "cProp_499",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:00:35.282658+00:00"
+ },
+ {
+  "id": 7114,
+  "district": "FinancialDistrict",
+  "actor": "cProp_99",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:00:50.225683+00:00"
+ },
+ {
+  "id": 7115,
+  "district": "FinancialDistrict",
+  "actor": "cProp_476",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:00:51.192509+00:00"
+ },
+ {
+  "id": 7116,
+  "district": "FinancialDistrict",
+  "actor": "cProp_98",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:00:57.577258+00:00"
+ },
+ {
+  "id": 7117,
+  "district": "FinancialDistrict",
+  "actor": "cProp_490",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:01:04.649028+00:00"
+ },
+ {
+  "id": 7118,
+  "district": "FinancialDistrict",
+  "actor": "cProp_52",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:01:08.38836+00:00"
+ },
+ {
+  "id": 7119,
+  "district": "FinancialDistrict",
+  "actor": "cProp_801",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:01:20.08844+00:00"
+ },
+ {
+  "id": 7120,
+  "district": "FinancialDistrict",
+  "actor": "cProp_97",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:01:26.086575+00:00"
+ },
+ {
+  "id": 7121,
+  "district": "FinancialDistrict",
+  "actor": "cProp_486",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:01:36.370545+00:00"
+ },
+ {
+  "id": 7122,
+  "district": "FinancialDistrict",
+  "actor": "cProp_101",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:01:40.167956+00:00"
+ },
+ {
+  "id": 7123,
+  "district": "FinancialDistrict",
+  "actor": "cProp_100",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:01:56.585717+00:00"
+ },
+ {
+  "id": 7124,
+  "district": "FinancialDistrict",
+  "actor": "cProp_479",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:02:04.831868+00:00"
+ },
+ {
+  "id": 7125,
+  "district": "FinancialDistrict",
+  "actor": "cProp_96",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:02:20.85387+00:00"
+ },
+ {
+  "id": 7126,
+  "district": "FinancialDistrict",
+  "actor": "cProp_592",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:02:33.667661+00:00"
+ },
+ {
+  "id": 7127,
+  "district": "FinancialDistrict",
+  "actor": "cProp_94",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:02:37.877188+00:00"
+ },
+ {
+  "id": 7128,
+  "district": "FinancialDistrict",
+  "actor": "cProp_438",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:02:52.827449+00:00"
+ },
+ {
+  "id": 7129,
+  "district": "FinancialDistrict",
+  "actor": "cProp_50",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:02:56.640833+00:00"
+ },
+ {
+  "id": 7130,
+  "district": "FinancialDistrict",
+  "actor": "cProp_102",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:03:28.858431+00:00"
+ },
+ {
+  "id": 7131,
+  "district": "FinancialDistrict",
+  "actor": "cProp_958",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:03:41.606766+00:00"
+ },
+ {
+  "id": 7132,
+  "district": "FinancialDistrict",
+  "actor": "cProp_105",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:03:47.250264+00:00"
+ },
+ {
+  "id": 7133,
+  "district": "FinancialDistrict",
+  "actor": "cProp_438",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:03:59.967206+00:00"
+ },
+ {
+  "id": 7134,
+  "district": "FinancialDistrict",
+  "actor": "cProp_959",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:04:07.728616+00:00"
+ },
+ {
+  "id": 7135,
+  "district": "FinancialDistrict",
+  "actor": "cProp_604",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:04:17.651707+00:00"
+ },
+ {
+  "id": 7136,
+  "district": "FinancialDistrict",
+  "actor": "cProp_55",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:04:21.092614+00:00"
+ },
+ {
+  "id": 7137,
+  "district": "FinancialDistrict",
+  "actor": "cProp_56",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:05:14.664131+00:00"
+ },
+ {
+  "id": 7138,
+  "district": "FinancialDistrict",
+  "actor": "cProp_90",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:05:28.366031+00:00"
+ },
+ {
+  "id": 7139,
+  "district": "FinancialDistrict",
+  "actor": "cProp_46",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:05:38.744505+00:00"
+ },
+ {
+  "id": 7140,
+  "district": "FinancialDistrict",
+  "actor": "cProp_91",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:05:52.84506+00:00"
+ },
+ {
+  "id": 7141,
+  "district": "FinancialDistrict",
+  "actor": "cProp_42",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:06:00.336318+00:00"
+ },
+ {
+  "id": 7142,
+  "district": "FinancialDistrict",
+  "actor": "cProp_470",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:06:02.307539+00:00"
+ },
+ {
+  "id": 7143,
+  "district": "FinancialDistrict",
+  "actor": "cProp_470",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:06:19.691174+00:00"
+ },
+ {
+  "id": 7144,
+  "district": "FinancialDistrict",
+  "actor": "cProp_44",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:06:27.16914+00:00"
+ },
+ {
+  "id": 7145,
+  "district": "FinancialDistrict",
+  "actor": "cProp_116",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:06:43.996402+00:00"
+ },
+ {
+  "id": 7146,
+  "district": "FinancialDistrict",
+  "actor": "cProp_499",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:06:46.237603+00:00"
+ },
+ {
+  "id": 7147,
+  "district": "FinancialDistrict",
+  "actor": "cProp_45",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:06:51.959702+00:00"
+ },
+ {
+  "id": 7148,
+  "district": "FinancialDistrict",
+  "actor": "cProp_490",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:07:21.03222+00:00"
+ },
+ {
+  "id": 7149,
+  "district": "FinancialDistrict",
+  "actor": "cProp_43",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:07:38.529002+00:00"
+ },
+ {
+  "id": 7150,
+  "district": "FinancialDistrict",
+  "actor": "cProp_476",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:07:44.330976+00:00"
+ },
+ {
+  "id": 7151,
+  "district": "FinancialDistrict",
+  "actor": "cProp_486",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:08:28.803249+00:00"
+ },
+ {
+  "id": 7152,
+  "district": "FinancialDistrict",
+  "actor": "cProp_519",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:08:32.434204+00:00"
+ },
+ {
+  "id": 7153,
+  "district": "FinancialDistrict",
+  "actor": "cProp_111",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:09:07.345032+00:00"
+ },
+ {
+  "id": 7154,
+  "district": "FinancialDistrict",
+  "actor": "cProp_605",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:09:47.362561+00:00"
+ },
+ {
+  "id": 7155,
+  "district": "FinancialDistrict",
+  "actor": "cProp_616",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:09:57.783996+00:00"
+ },
+ {
+  "id": 7156,
+  "district": "FinancialDistrict",
+  "actor": "cProp_95",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:10:50.217864+00:00"
+ },
+ {
+  "id": 7157,
+  "district": "FinancialDistrict",
+  "actor": "cProp_104",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:10:51.92813+00:00"
+ },
+ {
+  "id": 7158,
+  "district": "FinancialDistrict",
+  "actor": "cProp_104",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:11:17.499696+00:00"
+ },
+ {
+  "id": 7159,
+  "district": "FinancialDistrict",
+  "actor": "cProp_537",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:11:38.889542+00:00"
+ },
+ {
+  "id": 7160,
+  "district": "FinancialDistrict",
+  "actor": "cProp_536",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:11:47.202394+00:00"
+ },
+ {
+  "id": 7161,
+  "district": "FinancialDistrict",
+  "actor": "cProp_139",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:11:57.966207+00:00"
+ },
+ {
+  "id": 7162,
+  "district": "FinancialDistrict",
+  "actor": "cProp_535",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:11:59.606583+00:00"
+ },
+ {
+  "id": 7163,
+  "district": "FinancialDistrict",
+  "actor": "cProp_538",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:12:15.46738+00:00"
+ },
+ {
+  "id": 7164,
+  "district": "FinancialDistrict",
+  "actor": "cProp_147",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:12:19.221986+00:00"
+ },
+ {
+  "id": 7165,
+  "district": "FinancialDistrict",
+  "actor": "cProp_540",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:12:21.466545+00:00"
+ },
+ {
+  "id": 7166,
+  "district": "FinancialDistrict",
+  "actor": "cProp_539",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:12:35.285515+00:00"
+ },
+ {
+  "id": 7167,
+  "district": "FinancialDistrict",
+  "actor": "cProp_139",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:12:37.462439+00:00"
+ },
+ {
+  "id": 7168,
+  "district": "FinancialDistrict",
+  "actor": "cProp_147",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:12:49.992408+00:00"
+ },
+ {
+  "id": 7169,
+  "district": "FinancialDistrict",
+  "actor": "cProp_141",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:13:00.359029+00:00"
+ },
+ {
+  "id": 7170,
+  "district": "FinancialDistrict",
+  "actor": "cProp_141",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:13:07.104594+00:00"
+ },
+ {
+  "id": 7171,
+  "district": "FinancialDistrict",
+  "actor": "cProp_730",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:13:26.470845+00:00"
+ },
+ {
+  "id": 7172,
+  "district": "FinancialDistrict",
+  "actor": "cProp_728",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:13:37.63452+00:00"
+ },
+ {
+  "id": 7173,
+  "district": "FinancialDistrict",
+  "actor": "cProp_731",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:14:01.938075+00:00"
+ },
+ {
+  "id": 7174,
+  "district": "FinancialDistrict",
+  "actor": "cProp_149",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:14:43.407222+00:00"
+ },
+ {
+  "id": 7175,
+  "district": "FinancialDistrict",
+  "actor": "cProp_190",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:15:52.862382+00:00"
+ },
+ {
+  "id": 7176,
+  "district": "FinancialDistrict",
+  "actor": "cProp_151",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:16:08.782653+00:00"
+ },
+ {
+  "id": 7177,
+  "district": "FinancialDistrict",
+  "actor": "cProp_152",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:16:25.311541+00:00"
+ },
+ {
+  "id": 7178,
+  "district": "FinancialDistrict",
+  "actor": "cProp_136",
+  "kind": "not_here",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T11:16:52.030929+00:00"
  }
 ]
