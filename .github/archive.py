@@ -8,7 +8,7 @@ if not key: sys.exit(print('no ARCHIVE_KEY secret, photos stay in the database')
 ids = sorted(int(f[:-4]) for f in open(sys.argv[1]).read().split() if f.endswith('.jpg') and f[:-4].isdigit())
 want = set()  # paged: the API returns at most 1000 rows per request
 while True:
-    page = json.load(urllib.request.urlopen(urllib.request.Request(URL + f'reports?select=id&has_photo=is.true&contributor=not.is.null&order=id&limit=1000&offset={len(want)}', headers={'apikey': KEY, 'Authorization': 'Bearer ' + KEY}), timeout=60))
+    page = json.load(urllib.request.urlopen(urllib.request.Request(URL + f'reports?select=id&has_photo=is.true&or=(contributor.not.is.null,reviewed_by.not.is.null)&order=id&limit=1000&offset={len(want)}', headers={'apikey': KEY, 'Authorization': 'Bearer ' + KEY}), timeout=60))
     want |= {r['id'] for r in page}
     if len(page) < 1000: break
 ids = [i for i in ids if i in want]

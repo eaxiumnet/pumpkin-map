@@ -10,13 +10,13 @@ out = os.path.join(os.getcwd(), 'backup')  # run from the repo root (GitHub Acti
 photos = os.path.join(out, 'photos'); os.makedirs(photos, exist_ok=True)
 rows = []  # the API returns at most 1000 rows per request: page through them all (a short list here would also drop photos below)
 while True:
-    page = get(f'reports?select=id,district,actor,kind,day,note,has_photo,contributor,created_at&order=id&limit=1000&offset={len(rows)}')
+    page = get(f'reports?select=id,district,actor,kind,day,note,has_photo,contributor,reviewed_by,created_at&order=id&limit=1000&offset={len(rows)}')
     rows += page
     if len(page) < 1000: break
 json.dump(rows, open(os.path.join(out, 'reports.json'), 'w'), indent=1)
 try: json.dump(get('vote_counts?select=report_id,likes,dislikes&order=report_id'), open(os.path.join(out, 'votes.json'), 'w'), indent=1)
 except Exception as e: print('votes skipped:', e)
-want = {str(r['id']) for r in rows if r['has_photo'] and r['contributor'] is not None}  # hunters' screenshots (018) stay out of the public repo
+want = {str(r['id']) for r in rows if r['has_photo'] and (r['contributor'] is not None or r.get('reviewed_by') is not None)}  # hunters' screenshots stay out of the public repo unless a key holder validated them (021)
 for f in os.listdir(photos):  # removed by a key holder or retracted: not kept in the public backup either
     if f.endswith('.jpg') and f[:-4] not in want: os.remove(os.path.join(photos, f)); print('removed', f)
 for i in sorted(want - {f[:-4] for f in os.listdir(photos)}, key=int):
