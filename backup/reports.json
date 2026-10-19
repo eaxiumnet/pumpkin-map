@@ -57318,5 +57318,25 @@
   "note": null,
   "has_photo": false,
   "created_at": "2026-10-19T00:53:25.950001+00:00"
+ },
+ {
+  "id": 6322,
+  "district": "FinancialDistrict",
+  "actor": "cProp_584",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T01:15:50.479375+00:00"
+ },
+ {
+  "id": 6323,
+  "district": "FinancialDistrict",
+  "actor": "cProp_801",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T01:38:17.963978+00:00"
  }
 ]
