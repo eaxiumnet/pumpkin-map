@@ -58560,26 +58560,6 @@
   "created_at": "2026-10-19T06:14:12.738561+00:00"
  },
  {
-  "id": 6450,
-  "district": "WaterfrontDistrict",
-  "actor": "cProp_1791",
-  "kind": "not_here",
-  "day": "2026-10-19",
-  "note": null,
-  "has_photo": false,
-  "created_at": "2026-10-19T06:14:45.163624+00:00"
- },
- {
-  "id": 6451,
-  "district": "WaterfrontDistrict",
-  "actor": "cProp_1804",
-  "kind": "not_here",
-  "day": "2026-10-19",
-  "note": null,
-  "has_photo": false,
-  "created_at": "2026-10-19T06:15:39.753051+00:00"
- },
- {
   "id": 6452,
   "district": "WaterfrontDistrict",
   "actor": "cProp_1834",
@@ -68420,16 +68400,6 @@
   "created_at": "2026-10-19T12:30:15.454108+00:00"
  },
  {
-  "id": 7437,
-  "district": "WaterfrontDistrict",
-  "actor": "cProp_1804",
-  "kind": "not_here",
-  "day": "2026-10-19",
-  "note": null,
-  "has_photo": false,
-  "created_at": "2026-10-19T12:30:36.906318+00:00"
- },
- {
   "id": 7438,
   "district": "WaterfrontDistrict",
   "actor": "cProp_1792",
@@ -68590,16 +68560,6 @@
   "created_at": "2026-10-19T12:34:34.476491+00:00"
  },
  {
-  "id": 7454,
-  "district": "WaterfrontDistrict",
-  "actor": "cProp_1791",
-  "kind": "not_here",
-  "day": "2026-10-19",
-  "note": null,
-  "has_photo": false,
-  "created_at": "2026-10-19T12:34:37.880695+00:00"
- },
- {
   "id": 7455,
   "district": "FinancialDistrict",
   "actor": "cProp_879",
@@ -68678,16 +68638,6 @@
   "note": null,
   "has_photo": false,
   "created_at": "2026-10-19T12:36:36.084935+00:00"
- },
- {
-  "id": 7463,
-  "district": "WaterfrontDistrict",
-  "actor": "cProp_1862",
-  "kind": "not_here",
-  "day": "2026-10-19",
-  "note": null,
-  "has_photo": false,
-  "created_at": "2026-10-19T12:36:45.561964+00:00"
  },
  {
   "id": 7464,
@@ -87038,5 +86988,385 @@
   "note": null,
   "has_photo": false,
   "created_at": "2026-10-19T18:54:48.208149+00:00"
+ },
+ {
+  "id": 9315,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1541",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T18:56:59.996391+00:00"
+ },
+ {
+  "id": 9316,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_2048",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T18:57:02.253085+00:00"
+ },
+ {
+  "id": 9317,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1979",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T18:58:24.611821+00:00"
+ },
+ {
+  "id": 9318,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1980",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T18:58:40.24711+00:00"
+ },
+ {
+  "id": 9319,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1968",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T18:59:09.44958+00:00"
+ },
+ {
+  "id": 9320,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1981",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T18:59:49.4063+00:00"
+ },
+ {
+  "id": 9321,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1990",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:00:18.94411+00:00"
+ },
+ {
+  "id": 9322,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1983",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:00:38.613115+00:00"
+ },
+ {
+  "id": 9323,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1990",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:00:58.364715+00:00"
+ },
+ {
+  "id": 9324,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1414",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:01:43.14618+00:00"
+ },
+ {
+  "id": 9325,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1988",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:01:47.617292+00:00"
+ },
+ {
+  "id": 9326,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1994",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:02:15.877137+00:00"
+ },
+ {
+  "id": 9327,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1825",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:02:25.230538+00:00"
+ },
+ {
+  "id": 9328,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1226",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:02:47.69633+00:00"
+ },
+ {
+  "id": 9329,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_2036",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:02:52.128886+00:00"
+ },
+ {
+  "id": 9330,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1863",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:03:04.995457+00:00"
+ },
+ {
+  "id": 9331,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1862",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:03:15.052477+00:00"
+ },
+ {
+  "id": 9332,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1791",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:04:25.868175+00:00"
+ },
+ {
+  "id": 9333,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1804",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:04:52.218428+00:00"
+ },
+ {
+  "id": 9334,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1834",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:05:17.505451+00:00"
+ },
+ {
+  "id": 9335,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1106",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:05:43.44289+00:00"
+ },
+ {
+  "id": 9336,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1130",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:07:59.983483+00:00"
+ },
+ {
+  "id": 9337,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1931",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:08:17.271419+00:00"
+ },
+ {
+  "id": 9338,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1948",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:09:04.448854+00:00"
+ },
+ {
+  "id": 9339,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1920",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:10:20.927746+00:00"
+ },
+ {
+  "id": 9340,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1280",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:10:48.341044+00:00"
+ },
+ {
+  "id": 9341,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1929",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:11:01.115587+00:00"
+ },
+ {
+  "id": 9342,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1919",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:11:11.675223+00:00"
+ },
+ {
+  "id": 9343,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1377",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:11:17.175552+00:00"
+ },
+ {
+  "id": 9344,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1913",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:13:06.701383+00:00"
+ },
+ {
+  "id": 9345,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1915",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:13:56.726567+00:00"
+ },
+ {
+  "id": 9346,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1624",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:16:56.235025+00:00"
+ },
+ {
+  "id": 9347,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_2057",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:19:28.815476+00:00"
+ },
+ {
+  "id": 9348,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1643",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:20:29.664619+00:00"
+ },
+ {
+  "id": 9349,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1635",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:22:49.149799+00:00"
+ },
+ {
+  "id": 9350,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1633",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:22:53.903086+00:00"
+ },
+ {
+  "id": 9351,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1632",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:23:08.020879+00:00"
+ },
+ {
+  "id": 9352,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1642",
+  "kind": "infected",
+  "day": "2026-10-19",
+  "note": null,
+  "has_photo": false,
+  "created_at": "2026-10-19T19:23:35.553828+00:00"
  }
 ]
