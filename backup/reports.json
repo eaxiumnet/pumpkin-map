@@ -107482,5 +107482,29 @@
   "contributor": null,
   "reviewed_by": null,
   "created_at": "2026-10-20T03:49:42.165398+00:00"
+ },
+ {
+  "id": 9581,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1087",
+  "kind": "not_here",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T04:47:27.787624+00:00"
+ },
+ {
+  "id": 9582,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1129",
+  "kind": "infected",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T04:55:54.467584+00:00"
  }
 ]
