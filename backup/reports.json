@@ -106918,5 +106918,17 @@
   "contributor": null,
   "reviewed_by": null,
   "created_at": "2026-10-20T00:43:16.43455+00:00"
+ },
+ {
+  "id": 9534,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1448",
+  "kind": "not_here",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T01:02:43.515286+00:00"
  }
 ]
