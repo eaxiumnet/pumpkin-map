@@ -107590,5 +107590,113 @@
   "contributor": null,
   "reviewed_by": null,
   "created_at": "2026-10-20T05:43:48.907275+00:00"
+ },
+ {
+  "id": 9590,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1735",
+  "kind": "infected",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T06:11:50.136188+00:00"
+ },
+ {
+  "id": 9591,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1741",
+  "kind": "infected",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T06:12:00.883483+00:00"
+ },
+ {
+  "id": 9592,
+  "district": "FinancialDistrict",
+  "actor": "cProp_218",
+  "kind": "not_here",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T06:13:15.137391+00:00"
+ },
+ {
+  "id": 9593,
+  "district": "FinancialDistrict",
+  "actor": "cProp_201",
+  "kind": "not_here",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T06:14:08.05993+00:00"
+ },
+ {
+  "id": 9594,
+  "district": "FinancialDistrict",
+  "actor": "cProp_926",
+  "kind": "not_here",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T06:16:29.214407+00:00"
+ },
+ {
+  "id": 9595,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1712",
+  "kind": "infected",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T06:19:50.846868+00:00"
+ },
+ {
+  "id": 9596,
+  "district": "FinancialDistrict",
+  "actor": "cProp_207",
+  "kind": "not_here",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T06:22:14.942893+00:00"
+ },
+ {
+  "id": 9597,
+  "district": "FinancialDistrict",
+  "actor": "cProp_197",
+  "kind": "not_here",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T06:23:45.999614+00:00"
+ },
+ {
+  "id": 9598,
+  "district": "FinancialDistrict",
+  "actor": "cProp_196",
+  "kind": "not_here",
+  "day": "2026-10-20",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-20T06:27:43.727111+00:00"
  }
 ]
