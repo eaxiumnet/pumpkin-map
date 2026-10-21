@@ -17,11 +17,11 @@ async function cacheFirst(name, req) {
   }
   return r;
 }
-async function staleWhileRevalidate(req, e) {  // unhashed files that rarely change: the cached copy now, a fresh one for next time
-  const c = await caches.open(ASSET), hit = await c.match(req);
-  const net = fetch(req).then(r => { if (r.ok && r.status === 200) c.put(req, r.clone()); return r; });
-  if (hit) { e.waitUntil(net.catch(() => {})); return hit; }
-  return net;
+function staleWhileRevalidate(req, e) {  // unhashed files that rarely change: the cached copy now, a fresh one for next time
+  const c = caches.open(ASSET);
+  const net = fetch(req).then(async r => { if (r.ok && r.status === 200) await (await c).put(req, r.clone()); return r; });
+  e.waitUntil(net.catch(() => {}));  // must be called while the event is dispatched: Safari rejects a later waitUntil
+  e.respondWith(c.then(c => c.match(req)).then(hit => hit || net));
 }
 async function networkFirst(req) {  // the page: always the newest when online, the last copy when offline
   const c = await caches.open(PAGE);
@@ -34,7 +34,7 @@ self.addEventListener('fetch', e => {
   if (u.origin === location.origin) {
     if (/\/(thumbs|aerial|backup\/photos)\//.test(u.pathname)) return e.respondWith(cacheFirst(IMG, req));
     if (/\/apb3d\//.test(u.pathname) && u.searchParams.has('h')) return e.respondWith(cacheFirst(ASSET, req));  // 3D city: ?h= is the pack version
-    if (/\/(scare|vendor)\//.test(u.pathname) && !req.headers.has('range')) return e.respondWith(staleWhileRevalidate(req, e));  // <audio> range requests can't be cached
+    if (/\/(scare|vendor)\//.test(u.pathname) && !req.headers.has('range')) return staleWhileRevalidate(req, e);  // <audio> range requests can't be cached
     if (req.mode === 'navigate') return e.respondWith(networkFirst(req));
     return;  // version.json and the rest: straight to the network
   }
