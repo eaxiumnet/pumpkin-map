@@ -127402,5 +127402,29 @@
   "contributor": null,
   "reviewed_by": null,
   "created_at": "2026-10-21T22:47:33.748771+00:00"
+ },
+ {
+  "id": 11265,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1516",
+  "kind": "not_here",
+  "day": "2026-10-21",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-21T23:20:24.477858+00:00"
+ },
+ {
+  "id": 11266,
+  "district": "FinancialDistrict",
+  "actor": "cProp_165",
+  "kind": "not_here",
+  "day": "2026-10-21",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-21T23:42:15.136373+00:00"
  }
 ]
