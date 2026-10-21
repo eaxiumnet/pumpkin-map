@@ -119902,5 +119902,41 @@
   "contributor": null,
   "reviewed_by": null,
   "created_at": "2026-10-21T05:22:24.968378+00:00"
+ },
+ {
+  "id": 10633,
+  "district": "FinancialDistrict",
+  "actor": "cProp_269",
+  "kind": "infected",
+  "day": "2026-10-21",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-21T05:27:10.197535+00:00"
+ },
+ {
+  "id": 10634,
+  "district": "FinancialDistrict",
+  "actor": "cProp_502",
+  "kind": "infected",
+  "day": "2026-10-21",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-21T05:31:20.657735+00:00"
+ },
+ {
+  "id": 10635,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1602",
+  "kind": "not_here",
+  "day": "2026-10-21",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-21T05:39:07.243286+00:00"
  }
 ]
