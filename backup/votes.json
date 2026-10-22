@@ -216,7 +216,7 @@
  },
  {
   "report_id": 5599,
-  "likes": 1,
+  "likes": 2,
   "dislikes": 0
  },
  {
@@ -275,6 +275,16 @@
   "dislikes": 0
  },
  {
+  "report_id": 9199,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 9204,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
   "report_id": 9232,
   "likes": 1,
   "dislikes": 0
@@ -306,6 +316,11 @@
  },
  {
   "report_id": 10622,
+  "likes": 1,
+  "dislikes": 0
+ },
+ {
+  "report_id": 11068,
   "likes": 1,
   "dislikes": 0
  },
