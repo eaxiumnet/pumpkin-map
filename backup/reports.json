@@ -144874,5 +144874,41 @@
   "contributor": null,
   "reviewed_by": null,
   "created_at": "2026-10-23T14:01:51.004425+00:00"
+ },
+ {
+  "id": 12732,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_2076",
+  "kind": "not_here",
+  "day": "2026-10-23",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-23T14:58:30.138185+00:00"
+ },
+ {
+  "id": 12733,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_2073",
+  "kind": "not_here",
+  "day": "2026-10-23",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-23T15:01:16.110511+00:00"
+ },
+ {
+  "id": 12734,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_2074",
+  "kind": "not_here",
+  "day": "2026-10-23",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-23T15:01:31.043438+00:00"
  }
 ]
