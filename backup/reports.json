@@ -143372,7 +143372,7 @@
   "note": null,
   "has_photo": true,
   "contributor": null,
-  "reviewed_by": null,
+  "reviewed_by": 1,
   "created_at": "2026-10-23T13:08:44.86178+00:00"
  },
  {
@@ -143516,7 +143516,7 @@
   "note": null,
   "has_photo": true,
   "contributor": null,
-  "reviewed_by": null,
+  "reviewed_by": 1,
   "created_at": "2026-10-23T13:12:29.359039+00:00"
  },
  {
@@ -143984,7 +143984,7 @@
   "note": null,
   "has_photo": true,
   "contributor": null,
-  "reviewed_by": null,
+  "reviewed_by": 1,
   "created_at": "2026-10-23T13:20:54.118948+00:00"
  },
  {
@@ -144008,7 +144008,7 @@
   "note": null,
   "has_photo": true,
   "contributor": null,
-  "reviewed_by": null,
+  "reviewed_by": 1,
   "created_at": "2026-10-23T13:22:39.310008+00:00"
  },
  {
@@ -144344,7 +144344,7 @@
   "note": null,
   "has_photo": true,
   "contributor": null,
-  "reviewed_by": null,
+  "reviewed_by": 1,
   "created_at": "2026-10-23T13:34:06.034508+00:00"
  },
  {
@@ -144728,7 +144728,7 @@
   "note": null,
   "has_photo": true,
   "contributor": null,
-  "reviewed_by": null,
+  "reviewed_by": 1,
   "created_at": "2026-10-23T13:57:25.965758+00:00"
  },
  {
@@ -144992,7 +144992,7 @@
   "note": null,
   "has_photo": true,
   "contributor": null,
-  "reviewed_by": null,
+  "reviewed_by": 1,
   "created_at": "2026-10-23T16:10:43.692918+00:00"
  },
  {
@@ -145160,7 +145160,7 @@
   "note": null,
   "has_photo": true,
   "contributor": null,
-  "reviewed_by": null,
+  "reviewed_by": 1,
   "created_at": "2026-10-23T18:12:32.400565+00:00"
  },
  {
@@ -145172,7 +145172,55 @@
   "note": null,
   "has_photo": true,
   "contributor": null,
-  "reviewed_by": null,
+  "reviewed_by": 1,
   "created_at": "2026-10-23T18:16:07.067745+00:00"
+ },
+ {
+  "id": 12757,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1400",
+  "kind": "infected",
+  "day": "2026-10-23",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": 1,
+  "created_at": "2026-10-23T18:32:14.97921+00:00"
+ },
+ {
+  "id": 12758,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1458",
+  "kind": "infected",
+  "day": "2026-10-23",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": 1,
+  "created_at": "2026-10-23T18:34:33.097617+00:00"
+ },
+ {
+  "id": 12759,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_2036",
+  "kind": "infected",
+  "day": "2026-10-23",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": 1,
+  "created_at": "2026-10-23T18:40:45.743677+00:00"
+ },
+ {
+  "id": 12760,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1278",
+  "kind": "infected",
+  "day": "2026-10-23",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": 1,
+  "created_at": "2026-10-23T18:44:02.500507+00:00"
  }
 ]
