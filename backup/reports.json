@@ -152578,5 +152578,89 @@
   "contributor": null,
   "reviewed_by": null,
   "created_at": "2026-10-25T17:54:45.373516+00:00"
+ },
+ {
+  "id": 13384,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1992",
+  "kind": "infected",
+  "day": "2026-10-25",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-25T17:57:20.639934+00:00"
+ },
+ {
+  "id": 13385,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1991",
+  "kind": "not_here",
+  "day": "2026-10-25",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-25T17:57:41.995391+00:00"
+ },
+ {
+  "id": 13386,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1944",
+  "kind": "infected",
+  "day": "2026-10-25",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-25T18:09:29.039712+00:00"
+ },
+ {
+  "id": 13387,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1937",
+  "kind": "infected",
+  "day": "2026-10-25",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-25T18:10:23.475803+00:00"
+ },
+ {
+  "id": 13388,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1568",
+  "kind": "infected",
+  "day": "2026-10-25",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-25T18:12:49.021701+00:00"
+ },
+ {
+  "id": 13389,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1918",
+  "kind": "infected",
+  "day": "2026-10-25",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-25T18:14:20.057656+00:00"
+ },
+ {
+  "id": 13390,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1561",
+  "kind": "infected",
+  "day": "2026-10-25",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-25T18:20:20.275491+00:00"
  }
 ]
