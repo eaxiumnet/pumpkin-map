@@ -153766,5 +153766,17 @@
   "contributor": null,
   "reviewed_by": null,
   "created_at": "2026-10-25T23:01:04.001988+00:00"
+ },
+ {
+  "id": 13488,
+  "district": "WaterfrontDistrict",
+  "actor": "cProp_1296",
+  "kind": "infected",
+  "day": "2026-10-25",
+  "note": null,
+  "has_photo": true,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-25T23:02:19.94497+00:00"
  }
 ]
