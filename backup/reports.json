@@ -156790,5 +156790,17 @@
   "contributor": null,
   "reviewed_by": null,
   "created_at": "2026-10-28T22:44:55.835102+00:00"
+ },
+ {
+  "id": 13745,
+  "district": "FinancialDistrict",
+  "actor": "cProp_652",
+  "kind": "not_here",
+  "day": "2026-10-29",
+  "note": null,
+  "has_photo": false,
+  "contributor": null,
+  "reviewed_by": null,
+  "created_at": "2026-10-29T00:33:26.118967+00:00"
  }
 ]
